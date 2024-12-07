@@ -1,4 +1,4 @@
-# MSBA_503
+# IMG_MODLE_COMPARISON
 | Feature                 | SSD                                | Faster R-CNN                       |
 |-------------------------|------------------------------------|------------------------------------|
 | **Full Name**           | Single Shot Multibox Detector      | Faster Region-based Convolutional Neural Network |
