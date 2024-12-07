@@ -7,4 +7,4 @@
 | **Architecture**        | Single-stage detection             | Two-stage detection                |
 | **Applications**        | Real-time detection tasks          | Precision-critical tasks           |
 
-- [Download Object Detection Comparison Word Document](Object_Detection_Comparison.docx)
+- [Download Object Detection Comparison Word Document](MSBA503_Object_Detection_Comparison.docx)
